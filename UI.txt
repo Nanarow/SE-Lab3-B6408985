@@ -4,3 +4,4 @@ create router
 remote
 add issue #4
 done issue #6
+done issue #7
