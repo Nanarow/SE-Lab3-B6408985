@@ -3,3 +3,4 @@ update ui
 create router
 remote
 add issue #4
+done issue #6
